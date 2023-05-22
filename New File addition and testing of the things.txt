@@ -1,0 +1,3 @@
+Trying to add the things from the created branch to the main
+1) need to add these changes in the local first 
+2) then need to push this branch there on the remote 
